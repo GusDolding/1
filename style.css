@@ -1,0 +1,45 @@
+p,
+h1,
+li:hover {
+  color: rgb(129, 38, 2);
+  border: 5px solid rgb(231, 136, 27);
+  border-radius: 5px;
+  width: 300px;
+  font-family: "VT323", monospace;
+}
+a {
+  color: bisque;
+}
+a:hover {
+  color: rgb(206, 127, 116);
+}
+html {
+  background-color: rgb(255, 199, 95);
+}
+body {
+  width: 800px;
+  margin: 0 auto;
+  background-color: rgb(226, 83, 0);
+  border: 8px solid rgb(216, 145, 112);
+  border-radius: 8px;
+}
+h1 {
+  margin: 20px auto;
+  background-color: rgba(230, 108, 38, 0.562);
+  padding: 20px;
+}
+h1:hover {
+  background-color: rgb(110, 55, 18);
+  text-shadow: 2px 2px 0px rgb(0, 0, 0);
+  border-color: rgb(202, 171, 171);
+}
+img {
+  display: block;
+  margin: 0 auto;
+  border: 8px inset rgb(95, 40, 24);
+  border-radius: 8px;
+}
+li {
+  list-style-type: circle;
+  font-family: "VT323", monospace;
+}
